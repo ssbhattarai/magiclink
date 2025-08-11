@@ -10,4 +10,4 @@ Route::get('/login/{token}', [MagicLinkController::class, 'login'])
     ->name('magiclink.login');
 
 Route::get('/', [MagicLinkController::class, 'requestView'])
-    ->name('magiclink.request');
+    ->name('magiclink.view');
