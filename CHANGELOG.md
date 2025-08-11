@@ -10,3 +10,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - v1.0.0 Initial package with basic feature to send magiclink with basic configuration
+- v1.0.1 Fixed the route name conflicts
